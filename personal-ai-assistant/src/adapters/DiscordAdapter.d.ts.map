@@ -1,0 +1,1 @@
+{"version":3,"file":"DiscordAdapter.d.ts","sourceRoot":"","sources":["DiscordAdapter.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,WAAW,EAAE,MAAM,eAAe,CAAC;AAE5C,qBAAa,cAAe,SAAQ,WAAW;IAC7C,IAAI,SAAa;IACjB,OAAO,CAAC,MAAM,CAAS;gBAEX,KAAK,EAAE,MAAM;IAqBnB,KAAK;IAKL,WAAW,CAAC,WAAW,EAAE,MAAM,EAAE,IAAI,EAAE,MAAM;CAIpD"}
